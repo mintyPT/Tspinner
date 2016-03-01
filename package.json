@@ -1,6 +1,6 @@
 {
   "name": "tspinner",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple utility to spin text",
   "main": "index.js",
   "directories": {
@@ -21,6 +21,13 @@
   "author": {
     "email": "mauro.goncalo@gmail.com",
     "name": "Mauro Santos"
+  },
+  "bugs": {
+    "url": "https://github.com/mintyPT/Tspinner/issues"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com:mintyPT/Tspinner.git"
   },
   "license": "ISC"
 }
