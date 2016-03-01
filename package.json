@@ -1,0 +1,23 @@
+{
+  "name": "tspinner",
+  "version": "1.0.0",
+  "description": "Simple utility to spin text",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "text",
+    "spinner"
+  ],
+  "author": {
+    "email": "mauro.goncalo@gmail.com",
+    "name": "Mauro Santos"
+  },
+  "license": "ISC"
+}
